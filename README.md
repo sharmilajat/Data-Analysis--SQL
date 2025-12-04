@@ -1,4 +1,6 @@
-**Project Highlights – Coffee Sales Analysis (MySQL)**
+ **Coffee Sales Analysis (MySQL)**
+
+ **Overview**
 
 This project is based on a coffee sales dataset that includes product details like coffee name, unit price, timing, payment method and the date of each transaction.
 
